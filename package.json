@@ -1,0 +1,19 @@
+{
+  "name": "hospital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "@grpc/grpc-js": "^1.12.5",
+    "@hyperledger/fabric-gateway": "^1.7.1",
+    "faker": "^6.6.6",
+    "uuid": "^11.0.5"
+  },
+  "type": "module"
+}
